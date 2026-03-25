@@ -4,3 +4,4 @@ faker
 streamlit
 openai
 plotly
+altair==4.2.0
