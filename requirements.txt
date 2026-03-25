@@ -1,7 +1,7 @@
 pandas
 numpy
 faker
-streamlit
 openai
 plotly
 altair==4.2.0
+streamlit==1.29.0
