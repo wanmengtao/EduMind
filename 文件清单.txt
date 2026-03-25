@@ -1,0 +1,12 @@
+EduMind/
+├── generate_data.py
+├── feature_extraction.py
+├── generate_report.py
+├── app.py
+├── students.csv
+├── learning_behavior.csv
+├── final_reports.csv
+├── student_course_features.csv
+└── reports/
+    ├── S20250001_电路分析实验.txt
+    ├── ...
